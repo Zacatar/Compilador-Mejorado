@@ -1,13 +1,13 @@
 # Compilador-Mejorado
-En este compilador tomaremos un enfoque mas comodo, y mas Clean.
+En este compilador tomaremos un enfoque mas comodo, y mas clean para impresionar a Batiz deidad.
 
 # Inicios
-Tengo implementado hasta el intermedio, ya objeto y Binario son los que debemos trabajar en crear y aplicar
+Tengo implementado hasta el intermedio, codigo objeto y Binario son los que debemos trabajar en crear y aplicar.
 
 # Reglas si esque van a desarrollar
 1- Cuando cambien algo lleven la documentacion necesaria del cambio en el github con sus especificaciones y procesos que cambiarian y quizieran comentar cambiar.
 2- Comenten antes de cambiar cualquier proceso por el grupo de su disposicion conmigo.
-3- Si ocupan ayuda con algun proceso, Creacion, Prueba o cambio, Pueden comentar por el grupo.
+3- Si ocupan ayuda con algun proceso, creacion, prueba o cambio, pueden comentar por el grupo.
 
 # COMANDOS DE GIT
 git init: Inicializa un nuevo repositorio Git en el directorio actual. 
